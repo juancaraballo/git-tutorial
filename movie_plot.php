@@ -10,6 +10,7 @@ class MoviePlotGenerator {
 									   'goat wrangler',
 									   'entrepreneur',
 									   'construction worker',
+									   'conspiracy theorist',
 									   'dentist',
 									   'archaeologist',
 									   'investment banker',
